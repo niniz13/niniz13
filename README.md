@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a french student currently learning CS at the IUT of Aix-en-Provence ! 
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
