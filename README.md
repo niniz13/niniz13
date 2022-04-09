@@ -18,6 +18,7 @@ I'm a french student currently learning CS at the IUT of Aix-en-Provence !
  ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
+  <a href="https://code.visualstudio.com/?msclkid=4917a673b80911ecaaee827a32b797fa" target="_blank"> <img src="https://i0.wp.com/flstudiocrack.info/wp-content/uploads/2019/07/Visual-Studio-Code-Crack.png?fit=1200%2C1200&ssl=1" alt="express" width="43" height="40" /> </a>
   <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
   <a href="https://www.jetbrains.com/idea/"> <img src="https://hdlicense.com/wp-content/uploads/2019/11/IntelliJ-IDEA-crack.png" 
   alt="express" width="40" height="40" /> </a>
