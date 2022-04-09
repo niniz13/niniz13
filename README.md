@@ -20,6 +20,7 @@
   <a href="https://www.jetbrains.com/idea/"> <img src="https://hdlicense.com/wp-content/uploads/2019/11/IntelliJ-IDEA-crack.png" 
   alt="express" width="40" height="40" /> </a>
   <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
+    <a href="https://www.qt.io/product?msclkid=6bc17d04b7f611ec8d822dd4f46729b2"> <img src="https://www.pinclipart.com/picdir/middle/84-842339_logo-of-the-qt-project-qt-creator-logo.png" alt="express" width="40" height="40" /> </a>
   
 </p>
 
