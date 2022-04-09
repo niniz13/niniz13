@@ -16,6 +16,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
 
+ ##  💥  Tools, IDEs and Softwares:
+
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
     <a href="https://atom.io/"> <img src="https://img-premium.flaticon.com/png/512/3074/premium/3074119.png?token=exp=1626555999~hmac=2a1e95b7621c0c776e6670eedc9de410" alt="express" width="44" height="44"/ > </a>
