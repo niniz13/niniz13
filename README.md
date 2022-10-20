@@ -1,49 +1,31 @@
-### Hi there 👋
+## Hi there 👋, meet Amos
+I am a IT Student at Aix-en-Provence !
 
-I'm a french student currently learning CS at the IUT of Aix-en-Provence ! 
+Skills: HTML / CSS / Java / Python / C++
 
-## 🛠️ My Skills
+- 🔭 I’m currently working on a web serious game 
+- 📫 How to reach me: jeremy.gross@etu.univ-amu.fr
+- 😄 Pronouns: he/him 
 
-### 👉 Programming languages
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mogakamo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mogaka_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mogaka_dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m_ogakadev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mogaka_dev)  
 
-<p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a>    
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
- ##  💥  Tools, IDEs and Softwares:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mogakamo)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> 
-  <a href="https://code.visualstudio.com/?msclkid=4917a673b80911ecaaee827a32b797fa" target="_blank"> <img src="https://i0.wp.com/flstudiocrack.info/wp-content/uploads/2019/07/Visual-Studio-Code-Crack.png?fit=1200%2C1200&ssl=1" alt="express" width="43" height="40" /> </a>
-  <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
-  <a href="https://www.jetbrains.com/idea/"> <img src="https://hdlicense.com/wp-content/uploads/2019/11/IntelliJ-IDEA-crack.png" 
-  alt="express" width="40" height="40" /> </a>
-  <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
-    <a href="https://www.qt.io/product?msclkid=6bc17d04b7f611ec8d822dd4f46729b2"> <img src="https://www.pinclipart.com/picdir/middle/84-842339_logo-of-the-qt-project-qt-creator-logo.png" alt="express" width="40" height="40" /> </a>
-  
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mogakamo)](https://github.com/anuraghazra/github-readme-stats)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogaka_dev)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=JeremyGross13&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JeremyGross13&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyGross13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!--
-**JeremyGross13/JeremyGross13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mogakamo&show_icons=true&count_private=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+![GitHub metrics](https://metrics.lecoq.io/Mogakamo)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mogakamo)  
+
+![Profile views](https://gpvc.arturio.dev/Mogakamo)  
+
+------
+Credit: [Mogakamo](https://www.github.com/Mogakamo)
+
+Last Edited on: 05/12/2020
