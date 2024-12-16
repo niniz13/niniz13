@@ -11,7 +11,7 @@ I'm a french student at ESGI Aix-en-Provence !
     <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/> 
     <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"/>
     <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>
-    <img style="width: 100px; height: 100px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg"/>    
+    <img style="width: 100px; height: 100px" src="https://www.inkoop.io/static/3a6ef2a211c3b15bbf69d5c075f5c4c9/c9f11/logo.png"/>    
 </p>
 
  ##  💥  Tools, IDEs and Softwares:
