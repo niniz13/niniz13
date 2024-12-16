@@ -8,10 +8,10 @@ I'm a french student at ESGI Aix-en-Provence !
 
 <div style="display: flex; flex-direction: row; justify-content: center">   
     <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>
-    <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg"/>    
+    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/> 
+    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"/>
+    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>
+    <img style="width: 100px; height: 100px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg"/>    
 </p>
 
  ##  💥  Tools, IDEs and Softwares:
