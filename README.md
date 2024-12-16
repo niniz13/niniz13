@@ -11,8 +11,8 @@ I'm a french student at ESGI Aix-en-Provence !
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=Ve5z6WN65Tg6&format=png&color=000000"/> </a> 
+    <img src="https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000"/>
     
 </p>
 
