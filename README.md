@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est [Ton Prénom] !
+# 👋 Salut, moi c’est Jérémy Gross !
 
 Étudiant à l’**ESGI Aix-en-Provence**, passionné par l’IA, le web et le développement logiciel.  
 Je développe actuellement un SaaS qui génère des plannings de recettes avec l’intelligence artificielle.
