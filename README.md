@@ -1,35 +1,57 @@
-### Hi there 👋
+# 👋 Salut, moi c’est [Ton Prénom] !
 
-I'm a french student at ESGI Aix-en-Provence ! 
+Étudiant à l’**ESGI Aix-en-Provence**, passionné par l’IA, le web et le développement logiciel.  
+Je développe actuellement un SaaS qui génère des plannings de recettes avec l’intelligence artificielle.
 
-## 🛠️ My Skills
+---
 
-### 👉 Programming languages and frameworks
+## 🚀 Compétences & Stack
 
-<div style="display: flex; flex-direction: row; justify-content: center">   
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
-    <img style="width: 100px; height: 100px; object-fit: cover;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/> 
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"/>
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>
-    <img style="width: 100px; height: 100px" src="https://www.inkoop.io/static/3a6ef2a211c3b15bbf69d5c075f5c4c9/c9f11/logo.png"/>
-    <img style="width: 100px; height: 100px; object-fit: cover;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
-</div>
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 
- ##  💥  Tools, IDEs and Softwares:
- 
-<div style="display: flex; flex-direction: row; justify-content: center">   
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/>
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/> 
-    <img style="width: 100px; height: 100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s"/>
-    <img style="width: 100px; height: 100px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/>
-    <img style="width: 100px; height: 100px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"/>
-</div>
+### Bases de données / Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Mongo Atlas](https://img.shields.io/badge/Mongo%20Atlas-589636?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Protocoles & Outils
+![MQTT](https://img.shields.io/badge/MQTT-660099?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjNjYwMDk5Ii8+PHRleHQgeD0iMiIgeT0iOCIgZm9udC1zaXplPSI0IiBmaWxsPSIjZmZmIj5NUVRUPC90ZXh0Pjwvc3ZnPg==&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=niniz13&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=niniz13&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niniz13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!--
-**niniz13/niniz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systèmes & Script
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+
+### Déploiement & Versioning
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+---
+
+## 📝 Projet en cours
+
+> Plateforme **SaaS** qui génère des plannings de recettes grâce à l’IA : organisation, gain de temps et menus sur-mesure !
+
+---
+
+## 🏫 Formation
+
+- **Étudiant** à l’ESGI Aix-en-Provence  
+- Passionné par le développement web, IA et l’architecture logicielle
+
+---
+
+## 📫 Me contacter
+
+[Mail](jeremygross1307@gmail.com) | [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-gross-159a8622b/) | [Instagram](https://www.instagram.com/grs__jeremy/) | 
+
+---
+
