@@ -51,7 +51,7 @@ Je développe actuellement un SaaS qui génère des plannings de recettes avec l
 
 ## 📫 Me contacter
 
-[Mail](jeremygross1307@gmail.com) | [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-gross-159a8622b/) | [Instagram](https://www.instagram.com/grs__jeremy/) | 
+[Mail](jeremygross1307@gmail.com) | [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-gross/) | [Instagram](https://www.instagram.com/jeremygross.arw/) | 
 
 ---
 
